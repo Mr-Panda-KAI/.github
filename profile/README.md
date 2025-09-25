@@ -1,7 +1,7 @@
 # 🐼 Mr Panda KAI - Chatbot Inteligente para Transacciones Multi-Chain
 
 <div align="center">
-  <img src="assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI Logo" width="200"/>
+  <img src="assets/images/logos/LogoPandaKAI.png" alt="Mr Panda KAI Logo" width="200"/>
   
   [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Project Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)]()
