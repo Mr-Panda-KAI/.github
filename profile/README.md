@@ -1,7 +1,8 @@
 # 🐼 Mr Panda KAI - Chatbot Inteligente para Transacciones Multi-Chain
 
 <div align="center">
-  <img src="assets/images/logos/LogoPandaKAI.png" alt="Mr Panda KAI Logo" width="200"/>
+
+  <img src="../assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI Logo" width="200"/>
   
   [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Project Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)]()
@@ -323,7 +324,7 @@ Explorer Link → View on PolygonScan
   <table>
     <tr>
       <td align="center">
-        <img src="assets/images/team/yamil.jpg" width="120px" alt="Yamil Navia"/><br />
+        <img src="../assets/images/team/yamil.jpg" width="120px" alt="Yamil Navia"/><br />
         <sub><b>Yamil Navia</b></sub><br />
         <sub><strong>Lead Blockchain Developer</strong></sub><br />
         <sub>Solidity Expert | Rust Developer</sub><br />
@@ -331,7 +332,7 @@ Explorer Link → View on PolygonScan
         <sub>5+ años experiencia DeFi</sub>
       </td>
       <td align="center">
-        <img src="assets/images/team/omar.jpg" width="120px" alt="Omar Quispe"/><br />
+        <img src="../assets/images/team/omar.jpg" width="120px" alt="Omar Quispe"/><br />
         <sub><b>Omar Quispe</b></sub><br />
         <sub><strong>AI/ML Engineering Lead</strong></sub><br />
         <sub>Deepseek Integration Specialist</sub><br />
@@ -339,7 +340,7 @@ Explorer Link → View on PolygonScan
         <sub>3+ años en Agentes Inteligentes</sub>
       </td>
       <td align="center">
-        <img src="assets/images/team/jhamil.jpg" width="120px" alt="Jhamil Mamani"/><br />
+        <img src="../assets/images/team/jhamil.jpg" width="120px" alt="Jhamil Mamani"/><br />
         <sub><b>Jhamil Mamani</b></sub><br />
         <sub><strong>Senior Frontend Architect</strong></sub><br />
         <sub>React/TypeScript Expert</sub><br />
@@ -625,7 +626,7 @@ Este proyecto está bajo **Licencia MIT**. Ver [LICENSE](LICENSE) para detalles 
 
 <div align="center">
 
-<img src="assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI" width="80" height="80">
+<img src="../assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI" width="80" height="80">
 
 ## 🐼 Ready to Revolutionize Web3 Transactions?
 
@@ -638,7 +639,7 @@ Este proyecto está bajo **Licencia MIT**. Ver [LICENSE](LICENSE) para detalles 
 
 ---
 
-<img src="assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI" width="40" height="40">
+<img src="../assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI" width="40" height="40">
 
 **Built with ❤️ and 🐼 by the Mr Panda KAI Team**
 
