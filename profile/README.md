@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="../assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI Logo" width="200"/>
+  <img src="../assets/images/logos/LogoPandaKAIofi.png" alt="Mr Panda KAI Logo" width="200"/>
   
   [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Project Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)]()
@@ -512,9 +512,7 @@ npm run preview
 
 ### 🔗 Repositorios del Proyecto
 - **[Frontend Principal](https://github.com/Mr-Panda-KAI/frontend)**: Aplicación React principal
-- **[Smart Contracts](https://github.com/Mr-Panda-KAI/contracts)**: Contratos Solidity auditados
-- **[AI Parser](https://github.com/Mr-Panda-KAI/ai-parser)**: Motor de procesamiento IA
-- **[API Gateway](https://github.com/Mr-Panda-KAI/api)**: Backend services y APIs
+- **[Smart Contracts](https://github.com/Mr-Panda-KAI/backend-blockchain.git)**: Contratos Solidity auditados
 
 ### 📖 Guías Técnicas Detalladas
 - **[Chat Integration Guide](docs/CHAT_INTEGRATION.md)**: Implementación del sistema de chat
@@ -626,7 +624,7 @@ Este proyecto está bajo **Licencia MIT**. Ver [LICENSE](LICENSE) para detalles 
 
 <div align="center">
 
-<img src="../assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI" width="80" height="80">
+<img src="../assets/images/logos/LogoPandaKAIofi.png" alt="Mr Panda KAI" width="80" height="80">
 
 ## 🐼 Ready to Revolutionize Web3 Transactions?
 
@@ -639,7 +637,7 @@ Este proyecto está bajo **Licencia MIT**. Ver [LICENSE](LICENSE) para detalles 
 
 ---
 
-<img src="../assets/images/logos/LOGOpandaKAI.png" alt="Mr Panda KAI" width="40" height="40">
+<img src="../assets/images/logos/LogoPandaKAIofi.png" alt="Mr Panda KAI" width="40" height="40">
 
 **Built with ❤️ and 🐼 by the Mr Panda KAI Team**
 
